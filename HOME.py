@@ -43,7 +43,7 @@ To run the project on your local machine run the following commands in your **co
 1. Clone the github repository:
 
 ```bash
-  git clone https://github.com/Jai-Verma-04/IPLAnalytica.git
+  git clone https://github.com/manjuram01/IPL-Analytica.git
 ```
 2. Change current directory to IPLAnalytica folder
 ```bash
@@ -73,7 +73,3 @@ st.markdown("""
 → For ex. A player named "T Kohli" had the same image as "V Kohli".  
 → This is because I used google_images_search api to extract these images and it is not feasible to check that each and every player's image matches its name.  
 """)
-
-st.header("If you find any other issues, feel free to Open a github issue [here](https://github.com/Jai-Verma-04/IPLAnalytica/issues)")
-
-footer()

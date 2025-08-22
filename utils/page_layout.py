@@ -60,7 +60,6 @@ def footer():
             st.write("[GitHub](https://github.com/manjuram01)")
 
     with cols[2]:
-        st.write("[Portfolio - Coming Soon]()")
         st.write("[Get data used in the project here 📌](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)")
             
 
